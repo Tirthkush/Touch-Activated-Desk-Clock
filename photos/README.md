@@ -1,3 +1,5 @@
+#Photos
+
 This folder contains photographs of the Touch-Activated Desk Clock project, including:
 
 - Hardware setup
